@@ -1,5 +1,5 @@
 # splunk-logging-demo
-Splunk logging sample code to analyze Realtime logs using splunk
+Splunk logging sample code to analyze realtime logs using splunk
 
 # Steps to be followed:
 1. Download the Splunk installer from the Splunk download page. Link: https://www.splunk.com/en_us/download/splunk-enterprise.html?locale=en_us
@@ -40,3 +40,6 @@ Splunk logging sample code to analyze Realtime logs using splunk
 14. Login to local splunk server and search using keyword index="order_api_dev"
 # URL:
 "http://localhost:8000/en-US/app/search/search?q=search%20index%3D%22order_api_dev%22&display.page.search.mode=verbose&dispatch.sample_ratio=1&workload_pool=&earliest=-24h%40h&latest=now&sid=1709123044.9"
+
+# Screenshot:
+![splunk-logging-demo](https://github.com/abhi09cse02/splunk-logging-demo/assets/20701835/d024e7e5-b970-4fa8-b609-749f870e87d1)
