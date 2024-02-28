@@ -1,5 +1,5 @@
 # splunk-logging-demo
-Splunk logging sample code
+Splunk logging sample code to analyze Realtime logs using splunk
 
 # Steps to be followed:
 1. Download the Splunk installer from the Splunk download page. Link: https://www.splunk.com/en_us/download/splunk-enterprise.html?locale=en_us
